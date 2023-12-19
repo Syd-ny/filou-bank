@@ -70,7 +70,7 @@ public class Client {
         return comptes;
     }
 
-    public static void setComptes(Set<Compte> comptes) {
+    public void setComptes(Set<Compte> comptes) {
         this.comptes = comptes;
     }
 }
