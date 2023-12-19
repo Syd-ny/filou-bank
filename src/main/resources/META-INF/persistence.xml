@@ -10,6 +10,10 @@
     <class>fr.epsi.b32324c2.entities.Banque</class>
     <class>fr.epsi.b32324c2.entities.Compte</class>
     <class>fr.epsi.b32324c2.entities.Operation</class>
+    <class>fr.epsi.b32324c2.entities.LivretA</class>
+    <class>fr.epsi.b32324c2.entities.AssuranceVie</class>
+
+
 
 
     <properties>
